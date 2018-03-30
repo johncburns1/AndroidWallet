@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AndWallet</string>
+    <string name="tg_on">income</string>
+    <string name="tg_off">expense</string>
+    <string name="btn_save">save</string>
+    <string name="input_hint">Expense or Income</string>
+    <string name="emtpy_expense">The expense field is empty</string>
+    <string name="OK_btn">Ok</string>
+    <string name="trash_message">Wallet Cleared</string>
+    <string name="budget_summary">Budget Summary</string>
+    <string name="data">data</string>
+    <string name="total">total</string>
+    <string name="loss">Loss</string>
+    <string name="profit">Profit</string>
+    <string name="emty_error_msg">This field can not be blank</string>
+</resources>
